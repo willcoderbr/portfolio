@@ -1,0 +1,81 @@
+h1 {
+    font-family: 'Raleway', sans-serif;
+}
+h3, h4, .fonteNova, .card-text, ul{
+    font-family: 'Amatic SC', cursive;
+    font-family: 'Montserrat', sans-serif;
+}
+.shelf-cta {
+    padding: 10px 50px;
+    font-size: 16px;
+}
+.mb-3 {
+    margin-bottom: 16px !important;
+}
+.mx-2 {
+    margin-right: 8px !important;
+    margin-left: 8px !important;
+}
+.btn{
+    position: relative;
+    font-weight: 500;
+    line-height: 20px;
+    white-space: nowrap;
+    vertical-align: middle;
+    cursor: pointer;
+    border: 1px solid;
+    border-radius: 6px;
+}
+.btn-primary {
+    color: #ffffff;
+    background-color: #238636;
+    border-color: #2ea043;
+    box-shadow: var(--color-btn-primary-shadow),var(--color-btn-primary-inset-shadow);
+}
+.foto-perfil{
+    height: 80%;
+    width: auto;
+    max-width: 80%;
+    border-radius: 50%;
+}
+.corPrimaria{
+    background-color:#0d1117;
+}
+.corSecundaria{
+    background-color: #161b22;
+}
+p{
+    font-family: Lato, 'Helvetica Neve', Helvetica, Arial, sans-serif;
+    color: black !important;
+}
+.icones{
+    padding-left: 5px;
+}
+.titulosBrancos{
+    text-decoration: underline;     
+    padding-bottom: 20px;
+    text-transform: uppercase;
+    font-weight: 700;
+    color: white;
+}
+.titulosVerdes{
+    text-decoration: underline;
+    padding-bottom: 20px;
+    text-transform: uppercase;
+    font-weight: 700;
+    color: #238636;
+}
+.textoBranco{
+    color: white !important;
+}
+.jumbotron{
+  margin-bottom: 0px;
+}
+.textoFooter{
+  margin: 0px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+}
+html{
+  scroll-behavior: smooth;
+}
